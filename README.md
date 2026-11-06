@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Sumit Tiwari 👋
 
-<!--
-**sumittiwariknp1-debug/sumittiwariknp1-debug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### MCA Student | Aspiring Software Developer 💻
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Currently pursuing MCA.
+- 💻 Learning C, Java and Python.
+- 🧠 Practicing Data Structures & Algorithms.
+- 🚀 Interested in Software Development.
+- 📚 Learning something new every day.
+
+### 💻 Technical Skills
+- C Programming
+- Java
+- Python
+- Git & GitHub
+
+### 🎯 My Goals
+- Master programming fundamentals.
+- Build real-world projects.
+- Improve problem-solving skills.
+- Become a professional software developer.
+
+### 🤝 Connect With Me
+- GitHub: You're already here!
+
+---
+⭐ Thanks for visiting my profile!
